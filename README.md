@@ -108,8 +108,3 @@ This routes DNS queries through the specified DoH provider via the Windscribe tu
 | username | String | username for login |
 | verbosity | Number | logging verbosity (10 - debug, 20 - info, 30 - warning, 40 - error, 50 - critical). Default: `20` |
 | version | - | show program version and exit |
-
-## See also
-
-* [Project wiki](https://github.com/Snawoot/windscribe-proxy/wiki)
-* [Community in Telegram](https://t.me/alternative_proxy)
